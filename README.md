@@ -1,3 +1,8 @@
+# How to make a toast notification easily
+
+This repository shows a demo code example of a react-toastify library that can be used to easily create a toast notification in a React application.
+
+Check the documentation https://fkhadra.github.io/react-toastify/introduction
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
